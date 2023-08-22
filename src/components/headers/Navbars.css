@@ -1,0 +1,10 @@
+header{
+    height: 10vh;
+    position: relative;
+    z-index: 999;
+}
+
+.titlebrand{
+    font-style: italic;
+    color: rgb(246, 60, 60);
+}
